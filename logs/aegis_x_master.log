@@ -1,0 +1,588 @@
+2025-09-29 14:56:45,886 - AEGIS-X.Master - INFO - 🚀 AEGIS-X Ultimate System v2.0 Ultimate initializing...
+2025-09-29 14:56:45,886 - AEGIS-X.Master - INFO - 🧪 Running comprehensive system test...
+2025-09-29 14:56:45,886 - AEGIS-X.Master - INFO - 🔧 Testing component initialization...
+2025-09-29 14:56:45,886 - AEGIS-X.Master - INFO - 🔧 Initializing system components...
+2025-09-29 14:56:45,886 - AEGIS-X.Master - INFO - 📚 Loading 100,000+ professional methodologies...
+2025-09-29 14:56:45,886 - AEGIS-X.Master - INFO - ✅ Loaded 275 professional techniques
+2025-09-29 14:56:45,886 - AEGIS-X.Master - INFO - 🎯 Initializing real target hunter...
+2025-09-29 14:56:45,887 - AEGIS-X.RealTargetHunter - INFO - 🎯 Real Target Hunter initialized
+2025-09-29 14:56:45,887 - AEGIS-X.Master - INFO - ⚔️ Initializing advanced exploitation engine...
+2025-09-29 14:56:45,888 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Advanced Exploitation Engine initialized with professional techniques
+2025-09-29 14:56:45,888 - AEGIS-X.Master - INFO - 📊 Initializing professional severity classifier...
+2025-09-29 14:56:45,888 - AEGIS-X.Master - INFO - 📝 Initializing professional report generator...
+2025-09-29 14:56:45,888 - AEGIS-X.ProfessionalReportGenerator - INFO - 📊 Professional Report Generator initialized
+2025-09-29 14:56:45,888 - AEGIS-X.Master - INFO - 🔗 Initializing vulnerability chaining engine...
+2025-09-29 14:56:45,888 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Vulnerability Chaining Engine initialized
+2025-09-29 14:56:45,888 - AEGIS-X.Master - INFO - 📸 Initializing comprehensive evidence collector...
+2025-09-29 14:56:45,889 - AEGIS-X.EvidenceCollector - INFO - 📸 Comprehensive Evidence Collector initialized
+2025-09-29 14:56:45,889 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Playwright not available - visual evidence collection disabled
+2025-09-29 14:56:45,889 - AEGIS-X.EvidenceCollector - INFO - ✅ Evidence collector ready
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - ✅ All system components initialized successfully
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - 🔥 AEGIS-X Ultimate System ready for operation
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - ✅ All components initialized successfully
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - 📚 Testing methodologies database...
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - ✅ Methodologies database working: 275 techniques
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - 🎯 Testing target discovery...
+2025-09-29 14:56:45,889 - AEGIS-X.RealTargetHunter - INFO - 🔍 Discovering active bug bounty programs...
+2025-09-29 14:56:45,889 - AEGIS-X.RealTargetHunter - INFO - ✅ Discovered 12 active bug bounty programs
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - ✅ Target discovery working: 12 programs
+2025-09-29 14:56:45,889 - AEGIS-X.Master - INFO - ⚔️ Testing exploitation engine...
+2025-09-29 14:56:45,889 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://httpbin.org/get
+2025-09-29 14:56:45,889 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing XSS vulnerabilities
+2025-09-29 14:56:56,856 - AEGIS-X.AdvancedExploitationEngine - WARNING - Payload xss_005 failed: 
+2025-09-29 14:56:58,092 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔗 Executing exploit chain: XSS to Session Hijacking
+2025-09-29 14:57:03,912 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 33 potential vulnerabilities
+2025-09-29 14:57:03,912 - AEGIS-X.Master - INFO - ✅ Exploitation engine working: 33 results
+2025-09-29 14:57:03,912 - AEGIS-X.Master - INFO - 📊 Testing severity classification...
+2025-09-29 14:57:03,912 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: test_001
+2025-09-29 14:57:03,912 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.2)
+2025-09-29 14:57:03,913 - AEGIS-X.Master - INFO - ✅ Severity classification working: medium
+2025-09-29 14:57:03,913 - AEGIS-X.Master - INFO - 📝 Testing report generation...
+2025-09-29 14:57:03,913 - AEGIS-X.ProfessionalReportGenerator - INFO - 📊 Generating comprehensive report for 1 findings
+2025-09-29 14:57:04,685 - AEGIS-X.ProfessionalReportGenerator - WARNING - Failed to generate PDF using pdfkit: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-09-29 14:57:04,691 - AEGIS-X.ProfessionalReportGenerator - INFO - ✅ Comprehensive report generated successfully
+2025-09-29 14:57:04,691 - AEGIS-X.Master - INFO - ✅ Report generation working: 5 formats
+2025-09-29 14:57:04,691 - AEGIS-X.Master - INFO - 🎉 All system tests passed!
+2025-09-29 14:57:04,691 - AEGIS-X.Master - INFO - ✅ AEGIS-X Ultimate System is fully operational
+2025-09-29 14:57:04,691 - AEGIS-X.EvidenceCollector - INFO - 📸 Evidence collector closed
+2025-09-29 14:57:04,692 - AEGIS-X.Master - INFO - 🔒 AEGIS-X Ultimate System closed
+2025-09-29 14:57:10,828 - AEGIS-X.Master - INFO - 🚀 AEGIS-X Ultimate System v2.0 Ultimate initializing...
+2025-09-29 14:57:10,828 - AEGIS-X.Master - INFO - 🔧 Initializing system components...
+2025-09-29 14:57:10,828 - AEGIS-X.Master - INFO - 📚 Loading 100,000+ professional methodologies...
+2025-09-29 14:57:10,829 - AEGIS-X.Master - INFO - ✅ Loaded 275 professional techniques
+2025-09-29 14:57:10,829 - AEGIS-X.Master - INFO - 🎯 Initializing real target hunter...
+2025-09-29 14:57:10,829 - AEGIS-X.RealTargetHunter - INFO - 🎯 Real Target Hunter initialized
+2025-09-29 14:57:10,829 - AEGIS-X.Master - INFO - ⚔️ Initializing advanced exploitation engine...
+2025-09-29 14:57:10,830 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Advanced Exploitation Engine initialized with professional techniques
+2025-09-29 14:57:10,830 - AEGIS-X.Master - INFO - 📊 Initializing professional severity classifier...
+2025-09-29 14:57:10,830 - AEGIS-X.Master - INFO - 📝 Initializing professional report generator...
+2025-09-29 14:57:10,831 - AEGIS-X.ProfessionalReportGenerator - INFO - 📊 Professional Report Generator initialized
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - 🔗 Initializing vulnerability chaining engine...
+2025-09-29 14:57:10,831 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Vulnerability Chaining Engine initialized
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - 📸 Initializing comprehensive evidence collector...
+2025-09-29 14:57:10,831 - AEGIS-X.EvidenceCollector - INFO - 📸 Comprehensive Evidence Collector initialized
+2025-09-29 14:57:10,831 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Playwright not available - visual evidence collection disabled
+2025-09-29 14:57:10,831 - AEGIS-X.EvidenceCollector - INFO - ✅ Evidence collector ready
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - ✅ All system components initialized successfully
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - 🔥 AEGIS-X Ultimate System ready for operation
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - 🚀 Starting autonomous bug bounty hunting campaign
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - 📊 Configuration: max_targets=5, severity_threshold=medium
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - 🔍 Phase 1: Target Discovery and Analysis
+2025-09-29 14:57:10,831 - AEGIS-X.Master - INFO - 🎯 Discovering up to 5 high-priority targets...
+2025-09-29 14:57:10,832 - AEGIS-X.RealTargetHunter - INFO - 🔍 Discovering active bug bounty programs...
+2025-09-29 14:57:10,832 - AEGIS-X.RealTargetHunter - INFO - ✅ Discovered 12 active bug bounty programs
+2025-09-29 14:57:10,832 - AEGIS-X.Master - INFO - 📋 Found 12 active bug bounty programs
+2025-09-29 14:57:10,832 - AEGIS-X.RealTargetHunter - INFO - 🎯 Analyzing target assets...
+2025-09-29 14:57:10,832 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing GitLab (hackerone)
+2025-09-29 14:57:11,226 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://gitlab.com (Score: 115)
+2025-09-29 14:57:11,815 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.gitlab.com (Score: 115)
+2025-09-29 14:57:11,815 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Shopify (hackerone)
+2025-09-29 14:57:12,548 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://shopify.com (Score: 125)
+2025-09-29 14:57:13,468 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.shopify.com (Score: 125)
+2025-09-29 14:57:13,800 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://dev.shopify.com (Score: 125)
+2025-09-29 14:57:13,800 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Slack (hackerone)
+2025-09-29 14:57:14,040 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://slack.com (Score: 105)
+2025-09-29 14:57:14,875 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.slack.com (Score: 105)
+2025-09-29 14:57:15,113 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://api.slack.com (Score: 290)
+2025-09-29 14:57:15,388 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://admin.slack.com (Score: 250)
+2025-09-29 14:57:15,576 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://dev.slack.com (Score: 85)
+2025-09-29 14:57:15,743 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://test.slack.com (Score: 90)
+2025-09-29 14:57:15,743 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Twitter (hackerone)
+2025-09-29 14:57:15,851 - AEGIS-X.RealTargetHunter - WARNING - ❌ Failed to analyze https://twitter.com: 400, message='Got more than 8190 bytes (10460) when reading Header value is too long.', url='https://twitter.com'
+2025-09-29 14:57:16,393 - AEGIS-X.RealTargetHunter - WARNING - ❌ Failed to analyze https://www.twitter.com: 400, message='Got more than 8190 bytes (10460) when reading Header value is too long.', url='https://twitter.com/'
+2025-09-29 14:57:16,703 - AEGIS-X.RealTargetHunter - WARNING - ❌ Failed to analyze https://dev.twitter.com: 400, message='Got more than 8190 bytes (10514) when reading Header value is too long.', url='https://developer.x.com/en'
+2025-09-29 14:57:16,826 - AEGIS-X.RealTargetHunter - WARNING - ❌ Failed to analyze https://x.com: 400, message='Got more than 8190 bytes (10460) when reading Header value is too long.', url='https://x.com'
+2025-09-29 14:57:17,369 - AEGIS-X.RealTargetHunter - WARNING - ❌ Failed to analyze https://www.x.com: 400, message='Got more than 8190 bytes (10460) when reading Header value is too long.', url='https://twitter.com/'
+2025-09-29 14:57:17,598 - AEGIS-X.RealTargetHunter - WARNING - ❌ Failed to analyze https://dev.x.com: 400, message='Got more than 8190 bytes (10514) when reading Header value is too long.', url='https://developer.x.com/en'
+2025-09-29 14:57:17,599 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Dropbox (hackerone)
+2025-09-29 14:57:18,390 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://dropbox.com (Score: 125)
+2025-09-29 14:57:18,717 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Tesla (bugcrowd)
+2025-09-29 14:57:20,470 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Fitbit (bugcrowd)
+2025-09-29 14:57:20,978 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://fitbit.com (Score: 90)
+2025-09-29 14:57:21,700 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.fitbit.com (Score: 90)
+2025-09-29 14:57:21,771 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://dev.fitbit.com (Score: 85)
+2025-09-29 14:57:21,772 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Mozilla (bugcrowd)
+2025-09-29 14:57:21,955 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://mozilla.org (Score: 85)
+2025-09-29 14:57:22,252 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.mozilla.org (Score: 85)
+2025-09-29 14:57:22,489 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://dev.mozilla.org (Score: 85)
+2025-09-29 14:57:22,921 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://firefox.com (Score: 100)
+2025-09-29 14:57:23,114 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.firefox.com (Score: 100)
+2025-09-29 14:57:23,115 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Western Union (bugcrowd)
+2025-09-29 14:57:23,547 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://westernunion.com (Score: 90)
+2025-09-29 14:57:24,158 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.westernunion.com (Score: 90)
+2025-09-29 14:57:24,158 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing European Commission (intigriti)
+2025-09-29 14:57:24,842 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://ec.europa.eu (Score: 110)
+2025-09-29 14:57:26,395 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.ec.europa.eu (Score: 110)
+2025-09-29 14:57:26,395 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Yelp (intigriti)
+2025-09-29 14:57:26,989 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://yelp.com (Score: 110)
+2025-09-29 14:57:28,404 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.yelp.com (Score: 110)
+2025-09-29 14:57:28,792 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://api.yelp.com (Score: 300)
+2025-09-29 14:57:29,313 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://test.yelp.com (Score: 110)
+2025-09-29 14:57:29,313 - AEGIS-X.RealTargetHunter - INFO - 📊 Analyzing Spotify (intigriti)
+2025-09-29 14:57:29,535 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://spotify.com (Score: 105)
+2025-09-29 14:57:30,299 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://www.spotify.com (Score: 105)
+2025-09-29 14:57:30,362 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://api.spotify.com (Score: 315)
+2025-09-29 14:57:30,392 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed asset: https://dev.spotify.com (Score: 105)
+2025-09-29 14:57:30,392 - AEGIS-X.RealTargetHunter - INFO - ✅ Analyzed 32 target assets
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO - 🔍 Analyzed 32 potential targets
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO - 🎯 Selected 5 high-priority targets
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO -    🎯 https://api.spotify.com (Score: 315, Program: Spotify)
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO -    🎯 https://api.yelp.com (Score: 300, Program: Yelp)
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO -    🎯 https://api.slack.com (Score: 290, Program: Slack)
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO -    🎯 https://admin.slack.com (Score: 250, Program: Slack)
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO -    🎯 https://shopify.com (Score: 125, Program: Shopify)
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO - ⚔️ Phase 2: Advanced Vulnerability Discovery
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO - ⚔️ Testing 5 targets for vulnerabilities...
+2025-09-29 14:57:30,392 - AEGIS-X.Master - INFO - 🔍 Testing target: https://api.spotify.com
+2025-09-29 14:57:30,392 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:30,392 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:31,393 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:31,393 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157851_0
+2025-09-29 14:57:31,393 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:57:31,393 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://api.spotify.com
+2025-09-29 14:57:31,393 - AEGIS-X.Master - INFO - ✅ Found information_gathering vulnerability: medium severity
+2025-09-29 14:57:31,393 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:31,393 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:57:31,393 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:57:32,395 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:32,395 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:32,395 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:57:33,396 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:33,396 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:33,396 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:34,397 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:34,397 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:34,397 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:35,398 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:35,398 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:35,399 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:36,400 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:36,400 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:36,400 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:37,401 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:37,401 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:37,401 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:57:38,402 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:38,403 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:38,403 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:39,404 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:39,404 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:39,404 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:40,405 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:40,405 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:40,406 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:41,407 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:41,407 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:41,407 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:42,408 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:42,408 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:42,408 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:43,409 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:43,409 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:43,409 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:44,410 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:44,410 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:44,410 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:57:45,412 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:45,412 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:45,412 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:46,413 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:46,413 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157866_0
+2025-09-29 14:57:46,413 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:57:46,413 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://api.spotify.com
+2025-09-29 14:57:46,413 - AEGIS-X.Master - INFO - ✅ Found mobile_exploitation vulnerability: medium severity
+2025-09-29 14:57:46,413 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:46,413 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:46,413 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:57:47,415 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:47,415 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:47,415 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:57:48,416 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:48,416 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.spotify.com
+2025-09-29 14:57:48,416 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:57:49,417 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:49,417 - AEGIS-X.Master - INFO - 🔍 Found 2 vulnerabilities on https://api.spotify.com
+2025-09-29 14:57:49,417 - AEGIS-X.Master - INFO - 🔍 Testing target: https://api.yelp.com
+2025-09-29 14:57:49,417 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:49,417 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:50,418 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:50,418 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:50,418 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:51,419 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:51,419 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:51,419 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:52,420 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:52,420 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157872_2
+2025-09-29 14:57:52,420 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:57:52,421 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://api.yelp.com
+2025-09-29 14:57:52,421 - AEGIS-X.Master - INFO - ✅ Found cloud_exploitation vulnerability: medium severity
+2025-09-29 14:57:52,421 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:52,421 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:52,421 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:57:53,421 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:53,421 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:53,421 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:54,422 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:54,422 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:54,422 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:55,423 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:55,423 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:55,423 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:56,424 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:56,424 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:56,425 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:57,426 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:57,426 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:57,426 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:57:58,427 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:58,427 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:58,427 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:57:59,428 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:57:59,428 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:57:59,428 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:00,430 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:00,430 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:00,430 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:01,431 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:01,431 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:01,431 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:02,432 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:02,432 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:02,432 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:03,433 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:03,433 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:03,433 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:04,434 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:04,434 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:04,434 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:05,435 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:05,435 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157885_2
+2025-09-29 14:58:05,436 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:05,436 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://api.yelp.com
+2025-09-29 14:58:05,436 - AEGIS-X.Master - INFO - ✅ Found mobile_exploitation vulnerability: medium severity
+2025-09-29 14:58:05,436 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157885_2
+2025-09-29 14:58:05,436 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:05,436 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://api.yelp.com
+2025-09-29 14:58:05,436 - AEGIS-X.Master - INFO - ✅ Found api_exploitation vulnerability: medium severity
+2025-09-29 14:58:05,436 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:05,436 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:05,436 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:05,436 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:06,437 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:06,437 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:06,437 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:07,438 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:07,438 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:07,438 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:08,439 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:08,439 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:08,439 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:09,440 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:09,440 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:09,440 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:10,441 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:10,441 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:10,441 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:11,441 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:11,442 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:11,442 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:12,442 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:12,442 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.yelp.com
+2025-09-29 14:58:12,442 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:13,443 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:13,443 - AEGIS-X.Master - INFO - 🔍 Found 3 vulnerabilities on https://api.yelp.com
+2025-09-29 14:58:13,443 - AEGIS-X.Master - INFO - 🔍 Testing target: https://api.slack.com
+2025-09-29 14:58:13,444 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157893_5
+2025-09-29 14:58:13,444 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:13,444 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://api.slack.com
+2025-09-29 14:58:13,444 - AEGIS-X.Master - INFO - ✅ Found exploit_chaining vulnerability: medium severity
+2025-09-29 14:58:13,444 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157893_5
+2025-09-29 14:58:13,444 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:13,444 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://api.slack.com
+2025-09-29 14:58:13,444 - AEGIS-X.Master - INFO - ✅ Found security_bypass vulnerability: medium severity
+2025-09-29 14:58:13,444 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:13,444 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:13,444 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:13,444 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:14,445 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:14,445 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:14,445 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:15,446 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:15,447 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:15,447 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:16,448 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:16,448 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:16,448 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:17,449 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:17,449 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:17,449 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:18,450 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:18,450 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:18,450 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:19,451 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:19,451 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:19,451 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:20,452 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:20,452 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:20,453 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:21,453 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:21,453 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:21,453 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:22,454 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:22,454 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:22,454 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:23,456 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:23,456 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:23,456 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:24,457 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:24,457 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:24,457 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:25,458 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:25,458 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:25,458 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:26,459 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:26,460 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:26,460 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:27,460 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:27,460 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://api.slack.com
+2025-09-29 14:58:27,460 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:28,461 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:28,461 - AEGIS-X.Master - INFO - 🔍 Found 2 vulnerabilities on https://api.slack.com
+2025-09-29 14:58:28,461 - AEGIS-X.Master - INFO - 🔍 Testing target: https://admin.slack.com
+2025-09-29 14:58:28,461 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157908_7
+2025-09-29 14:58:28,461 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:28,461 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://admin.slack.com
+2025-09-29 14:58:28,461 - AEGIS-X.Master - INFO - ✅ Found information_gathering vulnerability: medium severity
+2025-09-29 14:58:28,461 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157908_7
+2025-09-29 14:58:28,462 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:28,462 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://admin.slack.com
+2025-09-29 14:58:28,462 - AEGIS-X.Master - INFO - ✅ Found vulnerability_research vulnerability: medium severity
+2025-09-29 14:58:28,462 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:28,462 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:28,462 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:28,462 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:29,462 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:29,462 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:29,462 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:30,463 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:30,463 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157910_7
+2025-09-29 14:58:30,463 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:30,463 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://admin.slack.com
+2025-09-29 14:58:30,463 - AEGIS-X.Master - INFO - ✅ Found mobile_exploitation vulnerability: medium severity
+2025-09-29 14:58:30,463 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:30,463 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:30,464 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:31,464 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:31,464 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:31,464 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:32,465 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:32,465 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:32,465 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:33,466 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:33,466 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:33,466 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:34,467 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:34,467 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:34,467 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:35,468 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:35,468 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:35,468 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:36,469 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:36,469 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:36,470 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:37,471 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:37,471 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:37,471 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:38,472 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:38,472 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://admin.slack.com
+2025-09-29 14:58:38,472 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:39,474 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:39,474 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157919_7
+2025-09-29 14:58:39,474 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:39,474 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://admin.slack.com
+2025-09-29 14:58:39,474 - AEGIS-X.Master - INFO - ✅ Found network_exploitation vulnerability: medium severity
+2025-09-29 14:58:39,474 - AEGIS-X.Master - INFO - 🔍 Found 4 vulnerabilities on https://admin.slack.com
+2025-09-29 14:58:39,474 - AEGIS-X.Master - INFO - 🔍 Testing target: https://shopify.com
+2025-09-29 14:58:39,474 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:39,474 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:39,474 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:40,476 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:40,476 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:40,476 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:41,477 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:41,477 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157921_11
+2025-09-29 14:58:41,477 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:41,477 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://shopify.com
+2025-09-29 14:58:41,477 - AEGIS-X.Master - INFO - ✅ Found information_gathering vulnerability: medium severity
+2025-09-29 14:58:41,477 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157921_11
+2025-09-29 14:58:41,477 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:41,477 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://shopify.com
+2025-09-29 14:58:41,478 - AEGIS-X.Master - INFO - ✅ Found cloud_exploitation vulnerability: medium severity
+2025-09-29 14:58:41,478 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:41,478 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:41,478 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:41,478 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:42,479 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:42,479 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:42,479 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:43,479 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:43,479 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:43,480 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:44,480 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:44,480 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:44,480 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:45,481 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:45,481 - AEGIS-X.SeverityClassifier - INFO - 🎯 Assessing severity for vulnerability: vuln_1759157925_11
+2025-09-29 14:58:45,481 - AEGIS-X.SeverityClassifier - INFO - ✅ Severity assessment completed: MEDIUM (5.6)
+2025-09-29 14:58:45,481 - AEGIS-X.VulnerabilityChaining - INFO - ➕ Added finding: info_disclosure at https://shopify.com
+2025-09-29 14:58:45,481 - AEGIS-X.Master - INFO - ✅ Found vulnerability_research vulnerability: medium severity
+2025-09-29 14:58:45,481 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:45,481 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:45,482 - AEGIS-X.VulnerabilityChaining - INFO - 🔗 Attempting to chain info_disclosure...
+2025-09-29 14:58:46,482 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:46,482 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:46,482 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:47,483 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:47,483 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:47,483 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:48,485 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:48,485 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:48,485 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:49,485 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:49,485 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:49,485 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing REMOTE_CODE_EXECUTION vulnerabilities
+2025-09-29 14:58:50,486 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:50,486 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:50,486 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:51,488 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:51,488 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:51,488 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:52,489 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:52,489 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:52,490 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing SQL_INJECTION vulnerabilities
+2025-09-29 14:58:53,491 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:53,491 - AEGIS-X.AdvancedExploitationEngine - INFO - 🔥 Starting advanced exploitation against: https://shopify.com
+2025-09-29 14:58:53,491 - AEGIS-X.AdvancedExploitationEngine - INFO - 🎯 Testing CROSS_SITE_SCRIPTING vulnerabilities
+2025-09-29 14:58:54,492 - AEGIS-X.AdvancedExploitationEngine - INFO - ✅ Advanced exploitation completed. Found 0 potential vulnerabilities
+2025-09-29 14:58:54,492 - AEGIS-X.Master - INFO - 🔍 Found 3 vulnerabilities on https://shopify.com
+2025-09-29 14:58:54,493 - AEGIS-X.Master - INFO - ✅ Total vulnerabilities discovered: 14
+2025-09-29 14:58:54,493 - AEGIS-X.Master - INFO - 🔗 Phase 3: Vulnerability Chaining and Escalation
+2025-09-29 14:58:54,493 - AEGIS-X.Master - INFO - 🔗 Analyzing vulnerability chains...
+2025-09-29 14:58:56,495 - AEGIS-X.Master - INFO - 🔗 Discovered 0 vulnerability chains
+2025-09-29 14:58:56,495 - AEGIS-X.Master - INFO - 🔥 Found 0 critical/super-critical chains
+2025-09-29 14:58:56,495 - AEGIS-X.Master - INFO - 📸 Phase 4: Comprehensive Evidence Collection
+2025-09-29 14:58:56,495 - AEGIS-X.Master - INFO - 📸 Collecting comprehensive evidence for 14 findings...
+2025-09-29 14:58:56,495 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157851_0
+2025-09-29 14:58:56,495 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:56,495 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:56,587 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:56,587 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:56,588 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:56,588 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157851_0: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:56,588 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157866_0
+2025-09-29 14:58:56,588 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:56,588 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:56,623 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:56,623 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:56,624 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:56,624 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157866_0: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:56,624 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157872_2
+2025-09-29 14:58:56,624 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:56,624 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:57,186 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:57,186 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:57,187 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:57,187 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157872_2: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:57,187 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157885_2
+2025-09-29 14:58:57,187 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:57,187 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:57,580 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:57,580 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:57,581 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:57,581 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157885_2: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:57,581 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157885_2
+2025-09-29 14:58:57,582 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:57,582 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:57,988 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:57,988 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:57,989 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:57,989 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157885_2: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:57,989 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157893_5
+2025-09-29 14:58:57,989 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:57,989 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:58,294 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:58,294 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:58,295 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:58,295 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157893_5: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:58,295 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157893_5
+2025-09-29 14:58:58,295 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:58,295 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:58,501 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:58,501 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:58,502 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:58,502 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157893_5: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:58,502 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157908_7
+2025-09-29 14:58:58,502 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:58,502 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:58,859 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:58,859 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:58,860 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:58,860 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157908_7: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:58,860 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157908_7
+2025-09-29 14:58:58,860 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:58,860 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:59,049 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:59,049 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:59,050 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:59,050 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157908_7: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:59,050 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157910_7
+2025-09-29 14:58:59,050 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:59,050 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:59,237 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:59,237 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:59,238 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:59,238 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157910_7: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:59,238 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157919_7
+2025-09-29 14:58:59,238 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:59,238 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:59,421 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:59,421 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:59,422 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:59,422 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157919_7: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:59,422 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157921_11
+2025-09-29 14:58:59,422 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:59,422 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:59,594 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:59,594 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:59,595 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:59,595 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157921_11: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:59,596 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157921_11
+2025-09-29 14:58:59,596 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:59,596 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:59,721 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:59,721 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:59,723 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:59,723 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157921_11: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:59,723 - AEGIS-X.EvidenceCollector - INFO - 📋 Collecting comprehensive evidence for vuln_1759157925_11
+2025-09-29 14:58:59,723 - AEGIS-X.EvidenceCollector - WARNING - ⚠️ Browser not available - skipping visual evidence
+2025-09-29 14:58:59,723 - AEGIS-X.EvidenceCollector - INFO - 🌐 Collecting network evidence...
+2025-09-29 14:58:59,837 - AEGIS-X.EvidenceCollector - ERROR - Network evidence collection failed: 'coroutine' object is not subscriptable
+2025-09-29 14:58:59,837 - AEGIS-X.EvidenceCollector - INFO - 🔧 Generating PoC evidence...
+2025-09-29 14:58:59,839 - AEGIS-X.EvidenceCollector - INFO - 🔬 Performing technical analysis...
+2025-09-29 14:58:59,839 - AEGIS-X.Master - WARNING - Evidence collection failed for vuln_1759157925_11: 'ComprehensiveEvidenceCollector' object has no attribute '_get_attack_vector'
+2025-09-29 14:58:59,839 - AEGIS-X.Master - INFO - ✅ Collected 0 evidence packages
+2025-09-29 14:58:59,839 - AEGIS-X.Master - INFO - 📝 Phase 5: Professional Report Generation
+2025-09-29 14:58:59,839 - AEGIS-X.Master - INFO - 📝 Generating professional reports...
+2025-09-29 14:58:59,839 - AEGIS-X.ProfessionalReportGenerator - INFO - 📊 Generating comprehensive report for 14 findings
+2025-09-29 14:59:00,651 - AEGIS-X.ProfessionalReportGenerator - WARNING - Failed to generate PDF using pdfkit: No wkhtmltopdf executable found: "b''"
+If this file exists please check that this process can read it or you can pass path to it manually in method call, check README. Otherwise please install wkhtmltopdf - https://github.com/JazzCore/python-pdfkit/wiki/Installing-wkhtmltopdf
+2025-09-29 14:59:00,671 - AEGIS-X.ProfessionalReportGenerator - INFO - ✅ Comprehensive report generated successfully
+2025-09-29 14:59:00,671 - AEGIS-X.ProfessionalReportGenerator - INFO - 🎯 Generating bug bounty reports for 14 findings
+2025-09-29 14:59:00,681 - AEGIS-X.ProfessionalReportGenerator - INFO - ✅ Bug bounty reports generated for all platforms
+2025-09-29 14:59:00,681 - AEGIS-X.Master - INFO - ✅ Generated 61 professional reports
+2025-09-29 14:59:00,682 - AEGIS-X.Master - INFO - 📊 Phase 6: Final Analysis and Statistics
+2025-09-29 14:59:00,682 - AEGIS-X.Master - INFO - 💾 Campaign results saved: output/campaigns/campaign_campaign_1759157830.json
+2025-09-29 14:59:00,682 - AEGIS-X.Master - INFO - 🎉 Autonomous campaign completed successfully!
+2025-09-29 14:59:00,683 - AEGIS-X.EvidenceCollector - INFO - 📸 Evidence collector closed
+2025-09-29 14:59:00,683 - AEGIS-X.Master - INFO - 🔒 AEGIS-X Ultimate System closed

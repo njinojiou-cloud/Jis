@@ -1,0 +1,585 @@
+{
+  "campaign_id": "campaign_1759157830",
+  "start_time": "2025-09-29T14:57:10.831958",
+  "targets": [
+    {
+      "url": "https://api.spotify.com",
+      "program": "Spotify",
+      "priority": 315
+    },
+    {
+      "url": "https://api.yelp.com",
+      "program": "Yelp",
+      "priority": 300
+    },
+    {
+      "url": "https://api.slack.com",
+      "program": "Slack",
+      "priority": 290
+    },
+    {
+      "url": "https://admin.slack.com",
+      "program": "Slack",
+      "priority": 250
+    },
+    {
+      "url": "https://shopify.com",
+      "program": "Shopify",
+      "priority": 125
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "id": "vuln_1759157851_0",
+      "type": "information_gathering",
+      "url": "https://api.spotify.com",
+      "parameter": "simulated_param",
+      "payload": "site:target.com inurl:login",
+      "description": "Advanced reconnaissance and information gathering technique",
+      "technique_id": "recon_0003",
+      "confidence": 0.8370526799350719,
+      "discovered_at": "2025-09-29T14:57:31.393593",
+      "program": "Spotify",
+      "platform": "intigriti",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157866_0",
+      "type": "mobile_exploitation",
+      "url": "https://api.spotify.com",
+      "parameter": "simulated_param",
+      "payload": "security find-generic-password -s Target",
+      "description": "Advanced mobile application security technique",
+      "technique_id": "mobile_0019",
+      "confidence": 0.7066217556175507,
+      "discovered_at": "2025-09-29T14:57:46.413540",
+      "program": "Spotify",
+      "platform": "intigriti",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157872_2",
+      "type": "cloud_exploitation",
+      "url": "https://api.yelp.com",
+      "parameter": "simulated_param",
+      "payload": "aws iam list-roles",
+      "description": "Advanced cloud security exploitation technique",
+      "technique_id": "cloud_0006",
+      "confidence": 0.9345238388162335,
+      "discovered_at": "2025-09-29T14:57:52.420793",
+      "program": "Yelp",
+      "platform": "intigriti",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157885_2",
+      "type": "mobile_exploitation",
+      "url": "https://api.yelp.com",
+      "parameter": "simulated_param",
+      "payload": "otool -tv /Applications/Target.app/Target",
+      "description": "Advanced mobile application security technique",
+      "technique_id": "mobile_0018",
+      "confidence": 0.8522516934521929,
+      "discovered_at": "2025-09-29T14:58:05.435977",
+      "program": "Yelp",
+      "platform": "intigriti",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157885_2",
+      "type": "api_exploitation",
+      "url": "https://api.yelp.com",
+      "parameter": "simulated_param",
+      "payload": "GET /api/v1/users?limit=999999&offset=0 HTTP/1.1",
+      "description": "Advanced API security exploitation technique",
+      "technique_id": "api_0017",
+      "confidence": 0.7559830568458261,
+      "discovered_at": "2025-09-29T14:58:05.436297",
+      "program": "Yelp",
+      "platform": "intigriti",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157893_5",
+      "type": "exploit_chaining",
+      "url": "https://api.slack.com",
+      "parameter": "simulated_param",
+      "payload": "Multi-stage payload sequence",
+      "description": "Chain information disclosure to achieve RCE",
+      "technique_id": "chain_0001",
+      "confidence": 0.711475164820809,
+      "discovered_at": "2025-09-29T14:58:13.444024",
+      "program": "Slack",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157893_5",
+      "type": "security_bypass",
+      "url": "https://api.slack.com",
+      "parameter": "simulated_param",
+      "payload": "&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#49;&#41;",
+      "description": "Advanced security control bypass technique",
+      "technique_id": "bypass_0017",
+      "confidence": 0.9483044729169171,
+      "discovered_at": "2025-09-29T14:58:13.444255",
+      "program": "Slack",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157908_7",
+      "type": "information_gathering",
+      "url": "https://admin.slack.com",
+      "parameter": "simulated_param",
+      "payload": "site:target.com inurl:login",
+      "description": "Advanced reconnaissance and information gathering technique",
+      "technique_id": "recon_0003",
+      "confidence": 0.8918007005011387,
+      "discovered_at": "2025-09-29T14:58:28.461711",
+      "program": "Slack",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157908_7",
+      "type": "vulnerability_research",
+      "url": "https://admin.slack.com",
+      "parameter": "simulated_param",
+      "payload": "Custom research required",
+      "description": "Session fixation in login process",
+      "technique_id": "zeroday_0010",
+      "confidence": 0.808430996207116,
+      "discovered_at": "2025-09-29T14:58:28.461948",
+      "program": "Slack",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157910_7",
+      "type": "mobile_exploitation",
+      "url": "https://admin.slack.com",
+      "parameter": "simulated_param",
+      "payload": "adb shell am start -n com.target.app/.MainActivity --es extra_data '../../../etc/passwd'",
+      "description": "Advanced mobile application security technique",
+      "technique_id": "mobile_0001",
+      "confidence": 0.9416773079866851,
+      "discovered_at": "2025-09-29T14:58:30.463608",
+      "program": "Slack",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157919_7",
+      "type": "network_exploitation",
+      "url": "https://admin.slack.com",
+      "parameter": "simulated_param",
+      "payload": "python3 secretsdump.py domain/user:password@target.com",
+      "description": "Advanced network security exploitation technique",
+      "technique_id": "network_0014",
+      "confidence": 0.8036643238180103,
+      "discovered_at": "2025-09-29T14:58:39.474325",
+      "program": "Slack",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157921_11",
+      "type": "information_gathering",
+      "url": "https://shopify.com",
+      "parameter": "simulated_param",
+      "payload": "nmap --top-ports 1000 target.com",
+      "description": "Advanced reconnaissance and information gathering technique",
+      "technique_id": "recon_0027",
+      "confidence": 0.9391221709880269,
+      "discovered_at": "2025-09-29T14:58:41.477528",
+      "program": "Shopify",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157921_11",
+      "type": "cloud_exploitation",
+      "url": "https://shopify.com",
+      "parameter": "simulated_param",
+      "payload": "gcloud storage buckets list",
+      "description": "Advanced cloud security exploitation technique",
+      "technique_id": "cloud_0026",
+      "confidence": 0.9065800811959728,
+      "discovered_at": "2025-09-29T14:58:41.477848",
+      "program": "Shopify",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    },
+    {
+      "id": "vuln_1759157925_11",
+      "type": "vulnerability_research",
+      "url": "https://shopify.com",
+      "parameter": "simulated_param",
+      "payload": "Custom research required",
+      "description": "Side-channel attacks",
+      "technique_id": "zeroday_0028",
+      "confidence": 0.7057473892460454,
+      "discovered_at": "2025-09-29T14:58:45.481625",
+      "program": "Shopify",
+      "platform": "hackerone",
+      "severity": "medium",
+      "cvss_score": 5.6,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:U/RC:R"
+    }
+  ],
+  "chains": [],
+  "evidence_packages": [],
+  "reports": [
+    {
+      "format": "markdown",
+      "path": "output/reports/AEGIS-X-1759157939_report.md",
+      "type": "comprehensive"
+    },
+    {
+      "format": "html",
+      "path": "output/reports/AEGIS-X-1759157939_report.html",
+      "type": "comprehensive"
+    },
+    {
+      "format": "pdf",
+      "path": "output/reports/AEGIS-X-1759157939_report.pdf",
+      "type": "comprehensive"
+    },
+    {
+      "format": "json",
+      "path": "output/reports/AEGIS-X-1759157939_report.json",
+      "type": "comprehensive"
+    },
+    {
+      "format": "csv",
+      "path": "output/reports/AEGIS-X-1759157939_findings.csv",
+      "type": "comprehensive"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157851_0.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157866_0.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157872_2.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157885_2.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157885_2.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157893_5.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157893_5.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157908_7.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157908_7.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157910_7.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157919_7.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157921_11.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157921_11.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/hackerone_vuln_1759157925_11.md",
+      "type": "bug_bounty_hackerone"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157851_0.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157866_0.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157872_2.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157885_2.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157885_2.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157893_5.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157893_5.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157908_7.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157908_7.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157910_7.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157919_7.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157921_11.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157921_11.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157925_11.md",
+      "type": "bug_bounty_bugcrowd"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157851_0.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157866_0.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157872_2.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157885_2.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157885_2.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157893_5.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157893_5.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157908_7.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157908_7.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157910_7.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157919_7.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157921_11.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157921_11.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/bugcrowd_vuln_1759157925_11.md",
+      "type": "bug_bounty_intigriti"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157851_0.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157866_0.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157872_2.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157885_2.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157885_2.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157893_5.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157893_5.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157908_7.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157908_7.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157910_7.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157919_7.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157921_11.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157921_11.md",
+      "type": "bug_bounty_generic"
+    },
+    {
+      "format": "markdown",
+      "path": "output/reports/generic_vuln_1759157925_11.md",
+      "type": "bug_bounty_generic"
+    }
+  ],
+  "statistics": {
+    "execution_time": 109.85374283790588,
+    "targets_analyzed": 5,
+    "vulnerabilities_found": 14,
+    "chains_discovered": 0,
+    "evidence_packages": 0,
+    "reports_generated": 61,
+    "severity_breakdown": {
+      "critical": 0,
+      "high": 0,
+      "medium": 14,
+      "low": 0
+    },
+    "success_rate": 280.0,
+    "methodologies_used": 275,
+    "chaining_success_rate": 0.0
+  },
+  "end_time": "2025-09-29T14:59:00.682072",
+  "duration": 109.85376620292664
+}

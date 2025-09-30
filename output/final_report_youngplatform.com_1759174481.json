@@ -1,0 +1,39 @@
+{
+  "target": "youngplatform.com",
+  "campaign_summary": {
+    "total_iterations": 2,
+    "total_duration_hours": 0,
+    "total_vulnerabilities": 0,
+    "severity_analysis": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "total": 0
+    },
+    "success_criteria_met": false
+  },
+  "detailed_vulnerabilities": [],
+  "campaign_details": [
+    {
+      "target": "youngplatform.com",
+      "start_time": "2025-09-29T19:32:37.269065",
+      "reconnaissance": {},
+      "vulnerabilities": [],
+      "evidence": [],
+      "reports": [],
+      "statistics": {}
+    },
+    {
+      "target": "youngplatform.com",
+      "start_time": "2025-09-29T19:33:40.789652",
+      "reconnaissance": {},
+      "vulnerabilities": [],
+      "evidence": [],
+      "reports": [],
+      "statistics": {}
+    }
+  ],
+  "final_assessment": "LOW RISK SECURITY POSTURE - Limited vulnerabilities found. Continue monitoring.",
+  "generated_at": "2025-09-29T19:34:41.374096"
+}

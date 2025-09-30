@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "report_id": "TEST-REPORT-001",
+    "report_type": "system_test",
+    "target_name": "Test Target",
+    "target_scope": [
+      "example.com"
+    ],
+    "assessment_period": "2025-09-29",
+    "generated_date": "2025-09-29T14:57:03.913131",
+    "generated_by": "AEGIS-X System Test",
+    "client_name": "Test Client",
+    "engagement_type": "System Verification",
+    "report_classification": "Test",
+    "version": "2.0"
+  },
+  "executive_summary": {
+    "total_vulnerabilities": 1,
+    "critical_count": 0,
+    "high_count": 1,
+    "medium_count": 0,
+    "low_count": 0,
+    "info_count": 0,
+    "overall_risk_rating": "High",
+    "key_findings": [
+      "High: Test Vulnerability"
+    ],
+    "recommendations": [
+      "Immediately address all Critical and High severity vulnerabilities",
+      "Implement a comprehensive security testing program",
+      "Conduct regular security assessments and penetration testing",
+      "Establish a vulnerability management process",
+      "Provide security training for development teams"
+    ],
+    "business_impact_summary": "The 1 High severity vulnerabilities could lead to unauthorized access to sensitive data, system manipulation, and potential regulatory compliance violations. Estimated potential financial impact: $100K+",
+    "remediation_timeline": "High severity vulnerabilities: Fix within 72 hours"
+  },
+  "findings": [
+    {
+      "id": "TEST-001",
+      "title": "Test Vulnerability",
+      "severity": "high",
+      "cvss_score": 7.5,
+      "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N",
+      "description": "Test vulnerability for system verification",
+      "impact": "Test impact",
+      "affected_url": "https://example.com",
+      "affected_parameter": "test",
+      "payload": "<script>alert('test')</script>",
+      "proof_of_concept": "Test PoC",
+      "remediation": "Test remediation",
+      "references": [
+        "https://owasp.org/"
+      ],
+      "evidence_files": [],
+      "discovery_date": "2025-09-29T14:57:03.913102",
+      "verification_status": "Verified",
+      "bug_bounty_program": "Test Program",
+      "reward_potential": "$100-$500",
+      "technical_details": {},
+      "business_impact": "Test business impact",
+      "risk_rating": "High"
+    }
+  ],
+  "generated_at": "2025-09-29T14:57:04.691158",
+  "report_version": "1.0"
+}

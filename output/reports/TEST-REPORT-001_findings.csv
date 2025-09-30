@@ -1,0 +1,2 @@
+ID,Title,Severity,CVSS Score,CVSS Vector,Affected URL,Affected Parameter,Description,Impact,Remediation,Discovery Date,Verification Status
+TEST-001,Test Vulnerability,high,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,https://example.com,test,Test vulnerability for system verification,Test impact,Test remediation,2025-09-29T14:57:03.913102,Verified
