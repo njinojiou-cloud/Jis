@@ -1,0 +1,62 @@
+{
+  "classification_history": [
+    {
+      "target": "app.aikido.dev",
+      "classified_type": "web",
+      "confidence": 0.8,
+      "reasoning": "Matched pattern: Domain name",
+      "timestamp": "2025-09-28 19:08:09.425395",
+      "learning_notes": []
+    },
+    {
+      "target": "app.aikido.dev",
+      "classified_type": "web",
+      "confidence": 0.8,
+      "reasoning": "Matched pattern: Domain name",
+      "timestamp": "2025-09-28 19:08:56.185614",
+      "learning_notes": []
+    },
+    {
+      "target": "*.aikido.dev",
+      "classified_type": "web",
+      "confidence": 0.85,
+      "reasoning": "Matched pattern: Wildcard domain",
+      "timestamp": "2025-09-28 19:08:56.186302",
+      "learning_notes": []
+    },
+    {
+      "target": "app.aikido.dev",
+      "classified_type": "web",
+      "confidence": 0.8,
+      "reasoning": "Matched pattern: Domain name",
+      "timestamp": "2025-09-28 19:18:02.880095",
+      "learning_notes": []
+    },
+    {
+      "target": "*.aikido.dev",
+      "classified_type": "web",
+      "confidence": 0.85,
+      "reasoning": "Matched pattern: Wildcard domain",
+      "timestamp": "2025-09-28 19:18:02.880591",
+      "learning_notes": []
+    },
+    {
+      "target": "app.aikido.dev",
+      "classified_type": "web",
+      "confidence": 0.8,
+      "reasoning": "Matched pattern: Domain name",
+      "timestamp": "2025-09-28 19:18:49.434976",
+      "learning_notes": []
+    },
+    {
+      "target": "*.aikido.dev",
+      "classified_type": "web",
+      "confidence": 0.85,
+      "reasoning": "Matched pattern: Wildcard domain",
+      "timestamp": "2025-09-28 19:18:49.435515",
+      "learning_notes": []
+    }
+  ],
+  "pattern_success_rates": {},
+  "improvement_notes": []
+}
